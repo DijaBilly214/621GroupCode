@@ -18,7 +18,7 @@ The project leverages the capabilities of the SimpleITK library in Python to pro
 
 - **Demons Registration**: Aligns different sets of images for accurate comparison and analysis.
 - **Level Set Segmentation**: Accurately segments regions of interest, particularly lung fields and areas potentially affected by Covid-19.
-- **Quantitative Analysis** 
+- **Quantitative Analysis**: Evaluating the segmentation and registration algorithms against JSON annotations from professionals.
 
 ## Installation
 
